@@ -11,3 +11,5 @@ const promises = () => {
 promises()
     .then(Response => console.log(Response))
     .catch(Error => console.log(Error))
+    .finally(() => console.log('Finally'));
+    
