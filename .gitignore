@@ -1,0 +1,16 @@
+# Ignorar el directorio node_modules
+node_modules/
+
+# Ignorar el archivo package-lock.json
+package-lock.json
+
+# Ignorar los archivos de log generados por npm
+npm-debug.log
+
+# Ignorar la carpeta de build (si existe)
+build/
+
+# Ignorar cualquier archivo o carpeta temporal de editores
+.vscode/
+.idea/
+*.swp
