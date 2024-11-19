@@ -11,8 +11,13 @@
   "author": "nicolas\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[N\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cmarin",
   "license": "MIT",
   "type": "module",
+<<<<<<< HEAD
   "description": "",
   "dependencies": {
     "node-fetch": "^3.3.2"
   }
+=======
+  "description": ""
+  
+>>>>>>> 4caa4d54acb1431cfd39da6f596024dfbfde7e69
 }
